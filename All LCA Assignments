@@ -1,8 +1,0 @@
-git clone https://github.com/meenubhatia8/Python Programming.git
-cd Python Programming
-mkdir All LCA Assignments
-mkdir First-Year/Programming
-
-git add .
-git commit -m "Add first year structure"
-git push
